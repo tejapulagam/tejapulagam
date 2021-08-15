@@ -1,16 +1,20 @@
-### Hi there 👋
+#### I'm currently working on:
+Implementing math algorithms in Java
+#### I'm currently learning about:
+Project development in Python
 
-<!--
-**tejapulagam/tejapulagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+#### How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: teja.pulagam@gmail.com
+
+[Website](https://tejapulagam.com) |
+[Linkedin](https://www.linkedin.com/in/tejapulagam/)
+
+<hr>
+
+Here are some stats...
+
+[![Teja's github stats](https://github-readme-stats.vercel.app/api?username=tejapulagam&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejapulagam&layout=compact&hide_border=true&exclude_repo=chinarjoshi.github.io,.emacs.d&theme=github_dark)](https://chinarjoshi.com)
