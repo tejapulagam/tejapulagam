@@ -1,7 +1,7 @@
 #### I'm currently working on:
 Implementing math algorithms in Java
 #### I'm currently learning about:
-Project development in Python
+Point set topology and linear algebra
 
 <hr>
 
@@ -17,4 +17,4 @@ Email: teja.pulagam@gmail.com
 Here are some stats...
 
 [![Teja's github stats](https://github-readme-stats.vercel.app/api?username=tejapulagam&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejapulagam&layout=compact&hide_border=true&exclude_repo=chinarjoshi.github.io,.emacs.d&theme=github_dark)](https://chinarjoshi.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejapulagam&layout=compact&hide_border=true&&theme=github_dark)](https://tejapulagam.com)
