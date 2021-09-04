@@ -1,7 +1,6 @@
-#### I'm currently working on:
-Implementing math algorithms in Java
 #### I'm currently learning about:
-Point set topology and linear algebra
+ - Point set topology
+ - Linear algebra
 
 <hr>
 
